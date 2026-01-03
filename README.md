@@ -33,7 +33,9 @@ The user discussion and development of Git take place on the Git
 mailing list -- everyone is welcome to post bug reports, feature
 requests, comments and patches to git@vger.kernel.org (read
 [Documentation/SubmittingPatches][] for instructions on patch submission
-and [Documentation/CodingGuidelines][]).
+and [Documentation/CodingGuidelines][]). See also [CONTRIBUTING][] for
+guidelines on contributing via GitHub, and [CODE_OF_CONDUCT][] for our
+community standards.
 
 Those wishing to help with error message, usage and informational message
 string translations (localization l10) should see [po/README.md][]
@@ -71,4 +73,6 @@ and the name as (depending on your mood):
 [Documentation/gitcvs-migration.adoc]: Documentation/gitcvs-migration.adoc
 [Documentation/SubmittingPatches]: Documentation/SubmittingPatches
 [Documentation/CodingGuidelines]: Documentation/CodingGuidelines
+[CONTRIBUTING]: .github/CONTRIBUTING.md
+[CODE_OF_CONDUCT]: CODE_OF_CONDUCT.md
 [po/README.md]: po/README.md
